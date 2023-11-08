@@ -9,6 +9,7 @@ Avoid the moving blue squares
 ↓ - move down <br />
 ← - move left <br />
 → - move right <br />
+p - pause/unpause game
 
 # Requirements
 To play the game you must have the following installed:
