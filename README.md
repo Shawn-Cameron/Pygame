@@ -5,10 +5,10 @@ This Program is a simple game that challenges the user to avoid colliding with m
 Avoid the moving blue squares
 
 # Controls
-↑ - move up
-↓ - move down
-← - move left
-→ - move right
+↑ - move up <br />
+↓ - move down <br />
+← - move left <br />
+→ - move right <br />
 
 # Requirements
 To play the game you must have the following installed:
